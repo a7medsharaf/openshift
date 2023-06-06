@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MbiVbTlBFa6H7PWb+yaKl5MlM6eZMaF8WCoxUFHbw/nPW2tiosMmhBjTZIsIuvsu/dUvqd8AcInQifY5ZmLVBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asharaf\\source\\repos\\OpenShiftTestApi\\OpenShiftTestApi\\OpenShiftTestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asharaf\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\asharaf\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\asharaf\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\asharaf\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\asharaf\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\asharaf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\asharaf\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

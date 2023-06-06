@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HKhqyx10iY4vJR7m8ikxvgG9NnSyhRZ7uudqM8m8ebM=",
+  "Source": "OpenShiftTestApi",
+  "BasePath": "_content/OpenShiftTestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
