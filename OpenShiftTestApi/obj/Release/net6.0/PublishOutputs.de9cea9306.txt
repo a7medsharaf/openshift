@@ -1,0 +1,11 @@
+C:\Users\asharaf\source\repos\OpenShiftTestApi\OpenShiftTestApi\obj\Docker\publish\OpenShiftTestApi.exe
+C:\Users\asharaf\source\repos\OpenShiftTestApi\OpenShiftTestApi\obj\Docker\publish\appsettings.Development.json
+C:\Users\asharaf\source\repos\OpenShiftTestApi\OpenShiftTestApi\obj\Docker\publish\appsettings.json
+C:\Users\asharaf\source\repos\OpenShiftTestApi\OpenShiftTestApi\obj\Docker\publish\OpenShiftTestApi.dll
+C:\Users\asharaf\source\repos\OpenShiftTestApi\OpenShiftTestApi\obj\Docker\publish\OpenShiftTestApi.deps.json
+C:\Users\asharaf\source\repos\OpenShiftTestApi\OpenShiftTestApi\obj\Docker\publish\OpenShiftTestApi.runtimeconfig.json
+C:\Users\asharaf\source\repos\OpenShiftTestApi\OpenShiftTestApi\obj\Docker\publish\OpenShiftTestApi.pdb
+C:\Users\asharaf\source\repos\OpenShiftTestApi\OpenShiftTestApi\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\asharaf\source\repos\OpenShiftTestApi\OpenShiftTestApi\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\asharaf\source\repos\OpenShiftTestApi\OpenShiftTestApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\asharaf\source\repos\OpenShiftTestApi\OpenShiftTestApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
